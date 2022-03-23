@@ -60,5 +60,5 @@
 		"p5": "^1.4.0"
 	},
 	"type": "module",
-	"svelte": "src/lib/index.ts"
+	"svelte": "src/lib/P5.svelte"
 }
